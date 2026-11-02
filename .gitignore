@@ -1,0 +1,8 @@
+# Generated reports
+reports/*.txt
+
+# Generated alerts
+alerts/*.log
+
+# Cron monitoring logs
+logs/cron_monitor.log

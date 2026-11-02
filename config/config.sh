@@ -1,0 +1,3 @@
+#!/bin/bash
+
+FAILED_ATTEMPT_THRESHOLD=3
